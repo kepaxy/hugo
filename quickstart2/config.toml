@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://kepaxy.github.io/"
 languageCode = "ja"
 title = "Yボタンがネギに見える"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
-theme = "ananke"  # この行を追加
+publishDir = "../docs"  # この行を追加
 [taxonomies]
 tag = "tags"
