@@ -3,5 +3,6 @@ languageCode = "ja"
 title = "Yボタンがネギに見える"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+theme = "ananke"  # この行を追加
 [taxonomies]
 tag = "tags"
